@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>About - Your Site</title>
+</head>
+<body style="font-family: Arial; margin:0;">
+
+  <!-- Navigation -->
+  <nav style="background:#333; padding:10px; text-align:center;">
+    <a href="index.html" style="color:white; margin: 0 15px;">Home</a>
+    <a href="about.html" style="color:white; margin: 0 15px;">About</a>
+    <a href="contact.html" style="color:white; margin: 0 15px;">Contact</a>
+    <a href="shop.html" style="color:white; margin: 0 15px;">Shop</a>
+  </nav>
+
+  <!-- Content -->
+  <div style="padding: 20px;">
+    <h1>About Me</h1>
+    <p>Here’s where you tell your story: who you are, what you do, and why you do it.</p>
+  </div>
+
+</body>
+</html>
